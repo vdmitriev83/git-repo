@@ -1,2 +1,3 @@
 print ("hello world");
 print ("la-al");
+print hello
